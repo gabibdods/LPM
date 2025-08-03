@@ -10,3 +10,11 @@
 
 
 # particular repository ignores:
+
+!lpm.lua
+
+!src/
+!src/main.lua
+!src/github.lua
+!src/installer.lua
+!src/config.lua
